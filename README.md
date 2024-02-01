@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and AI
 - 🌱 I’m currently learning PHP, Laravel
 - 💞️ I’m collaborating on Zikra's Product
-- 📫 How to reach me ribal@zikrainfotech.com
+- 📫 Reach me at ribal@zikrainfotech.com
 
 
 <!---
